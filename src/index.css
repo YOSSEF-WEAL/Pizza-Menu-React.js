@@ -211,3 +211,9 @@ body {
     width: 45%;
   }
 }
+
+@media (max-width: 500px) {
+  .menu {
+    gap: 22px;
+  }
+}
